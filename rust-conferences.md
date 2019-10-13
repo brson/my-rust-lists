@@ -1,0 +1,63 @@
+- Rust Camp 2015 - https://web.archive.org/web/20151230020407/http://rustcamp.com/
+  - 6 sponsors
+  - 0 blockchain sponsors
+- RustConf 2016 - http://2016.rustconf.com/sponsors.html
+  - 6 sponsors
+  - 0 blockchain sponsors
+- RustConf 2017 - http://2017.rustconf.com/sponsors.html
+  - 6 sponsors
+  - 0 blockchain sponsors
+- RustConf 2018 - http://2018.rustconf.com/sponsors.html
+  - 22 sponsors
+  - 5 blockchain sponsors
+- RustConf 2019 - https://rustconf.com/sponsors/
+  - 13 sponsors (pending)
+  - 2 blockchain sponsors
+  - 4 diamond
+  - 13 gold
+  - 3 bronze
+  - 4*8+13*6+3*2
+- RustCon Asia 2019 - https://rustcon.asia/
+  - 7 sponsors
+  - 2 blockchain sponsors
+- RustFest Paris 2016 - https://2016.rustfest.eu/sponsoring/
+  - 7 sponsors
+  - 1 blockchain sponsor
+- RustFest Ukraine 2017 - https://2017.rustfest.eu/sponsoring/
+  - 6 sponsors
+  - 0 blockchain sponsors
+- RustFest Zurich 2017 - https://zurich.rustfest.eu/sponsoring/
+  - 4 sponsors
+  - 1 blockchain sponsor
+- RustFest Paris 2018 - https://paris.rustfest.eu/sponsors/
+  - 8 sponsors
+  - 3 blockchain sponsors
+- RustFest Rome 2018 - https://rome.rustfest.eu/sponsors/
+  - 11 sponsors
+  - 3 blockchain sponsors
+- RustFest Barcelona 2019 - https://barcelona.rustfest.eu/sponsors/
+  - 1 sponsor
+  - 0 blockchain sponsors
+- Rust Belt Rust 2016 - http://conf2016.rust-belt-rust.com/
+  - 10 sponsors
+  - 0 blockchain sponsors
+- Rust Belt Rust 2017 - http://conf2017.rust-belt-rust.com/sponsors.html
+  - 9 sponsors
+  - 0 blockchain sponsor
+- Rust Belt Rust 2018 - http://conf2018.rust-belt-rust.com/sponsors/
+  - 7 sponsors
+  - 1 blockchain sponsor
+- Rust Belt Rust 2019 - https://www.rust-belt-rust.com/sponsors/
+  - 2 sponsors
+  - 0 blockchain sponsors
+- Colorado Gold Rust 2019 - https://www.cogoldrust.com/sponsors/
+  - 3 sponsors (pending)
+  - 1 blockchain sponsor
+- Rust LatAm 2019 - https://rustlatam.org/#our_sponsors
+  - 10 sponsors
+  - 4 blockchain sponsors
+- Rust Rush 2018 - https://rustrush.ru/index
+  - 5 sponsors
+  - 1 blockchain sponsor
+- Rust.Tokyo 2019 - https://rust.tokyo/sponsorship/
+  - 0 sponsors (pending)

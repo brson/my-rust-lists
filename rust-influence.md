@@ -1,0 +1,33 @@
+# Influence of Rust
+
+- twir
+- language/community surveys
+- coc
+- rfc - ember, swift
+- ownership, borrowing, lifetime terminology
+- ownership in general - midori, fuschia, swift, c++
+- systems memory safety
+- popularizing adts
+- Result type - elm
+- error messages - elm
+- high-five - rails uses it
+- bors - ember, others?
+  - https://smarketshq.com/marge-bot-for-gitlab-keeps-master-always-green-6070e9d248df
+  - bors-ng
+  - it's not rocket science generally
+- use of github
+- cargo influence on yarn, people love cargo
+  - shipping with the language
+- /r/golang nonofficial
+  - brad fitzgerald on go team wrote blog about deleting /r/golang
+  - contacted our mod team
+  - golang mods expressed amazement (get links from steve)
+  - https://groups.google.com/forum/m/#!msg/golang-nuts/XoOhzUClDPs/jgSWxng7CAAJ
+  - https://www.reddit.com/r/golang/comments/5eubdp/the_future_of_rgolang/?st=iwpgzxzr&sh=233caf39
+  - https://www.reddit.com/r/golang/comments/5h87u6/proposal_dgryski_for_top_mod/?st=iwpgzezp&sh=726023ce
+  - https://www.reddit.com/r/golang/comments/5hx5ba/hello_gophers/?st=iwpgz6np&sh=0ea420d7
+  - https://www.reddit.com/r/golang/comments/5hx5ba/hello_gophers/db4vplp/?st=iwphpbjl&sh=7ae49d0d
+- focus on pr, social media, hn, twitter, reddit, blog
+- website - redox
+- Yarn, Ember, React influenced by RFC process https://reactjs.org/blog/2017/12/07/introducing-the-react-rfc-process.html
+- c++ epochs? https://vittorioromeo.info/index/blog/fixing_cpp_with_epochs.html
