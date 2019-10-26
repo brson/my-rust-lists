@@ -2,3 +2,4 @@
   - 70% security bugs are memory bugs per microsoft
 - Encleve vuln's from mingshen (baidu)'s presentation
   - CVE-2015-6639
+- https://github.com/PolySync/misra-rust

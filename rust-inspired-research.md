@@ -1,14 +1,18 @@
 # Rust-inspired research and papers
 
-https://forge.rust-lang.org/bibliography.html
+- oxide paper - https://arxiv.org/pdf/1903.00982.pdf
+  - Mezzo and Alms
+  - two-phase borrows
 
-http://getreu.net/public/downloads/doc/forensic-tool-development-with-rust/Forensic-Tool%20Development%20with%20Rust.html
+- https://forge.rust-lang.org/bibliography.html
 
-https://arxiv.org/abs/1702.02951 - astrophysics
+- http://getreu.net/public/downloads/doc/forensic-tool-development-with-rust/Forensic-Tool%20Development%20with%20Rust.html
 
-https://users.rust-lang.org/t/thesis-simple-verification-of-rust-programs-via-functional-purification/9704
+- https://arxiv.org/abs/1702.02951 - astrophysics
 
-https://www.reddit.com/r/rust/comments/5xgtfg/algebraic_subtyping_pdf_thesis_by_stephen_dolan/
+- https://users.rust-lang.org/t/thesis-simple-verification-of-rust-programs-via-functional-purification/9704
+
+- https://www.reddit.com/r/rust/comments/5xgtfg/algebraic_subtyping_pdf_thesis_by_stephen_dolan/
 
 - Structure and Influence of Package dependency networks
   - http://kodu.ut.ee/~riivokik/pubs/msr2017dependency.pdf

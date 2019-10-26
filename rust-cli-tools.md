@@ -39,6 +39,7 @@ basic-http-server
 cargo-udeps
 https://github.com/EmbarkStudios/cargo-deny
 mdbook
+https://www.wezm.net/technical/2019/10/useful-command-line-tools/
 
 # not rust but useful for rust
 
