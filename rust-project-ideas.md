@@ -1,3 +1,5 @@
+- implement redis with crossbeam-skiplist
+- re-implement sphinx
 - re-implement 'data landscape' projects
   - https://mattturck.com/data2019/
 - substrate on ckb
