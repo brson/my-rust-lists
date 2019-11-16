@@ -2,6 +2,7 @@
   - https://news.ycombinator.com/item?id=21547369
   - https://github.com/zwegner/faster-utf8-validator
   - https://github.com/lemire/fastvalidate-utf-8
+  - https://github.com/killercup/simd-utf8-check
 - unpdf - convert pdf research papers to html
 - implement redis with crossbeam-skiplist
 - re-implement sphinx
