@@ -1,3 +1,8 @@
+- implement faster-utf8-vaidator for core run_utf8_validation
+  - https://news.ycombinator.com/item?id=21547369
+  - https://github.com/zwegner/faster-utf8-validator
+  - https://github.com/lemire/fastvalidate-utf-8
+- unpdf - convert pdf research papers to html
 - implement redis with crossbeam-skiplist
 - re-implement sphinx
 - re-implement 'data landscape' projects
