@@ -1,5 +1,7 @@
 # Rust-inspired research and papers
 
+- https://plv.mpi-sws.org/rustbelt/stacked-borrows/
+
 - oxide paper - https://arxiv.org/pdf/1903.00982.pdf
   - Mezzo and Alms
   - two-phase borrows
