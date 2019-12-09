@@ -1,3 +1,8 @@
+- implement OpenBLAS in rust
+- implement a pic compiler
+  - https://en.wikipedia.org/wiki/Pic_language
+- implement nongnu libunwind in rust
+  - just the stack tracing to begin with, for use in backtrace-rs
 - implement faster-utf8-vaidator for core run_utf8_validation
   - https://news.ycombinator.com/item?id=21547369
   - https://github.com/zwegner/faster-utf8-validator
