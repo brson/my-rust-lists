@@ -1,3 +1,7 @@
+- create a systems language benchmark using real-world software
+  - e.g. grep, ls, http, key-value
+- implement qrencode in rust
+- implement wireguard in rust
 - implement OpenBLAS in rust
 - implement a pic compiler
   - https://en.wikipedia.org/wiki/Pic_language
