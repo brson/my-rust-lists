@@ -1,3 +1,5 @@
+- implement junction concurrent hashmaps in rust
+  - https://preshing.com/20160201/new-concurrent-hash-maps-for-cpp/
 - create a systems language benchmark using real-world software
   - e.g. grep, ls, http, key-value
 - implement qrencode in rust
