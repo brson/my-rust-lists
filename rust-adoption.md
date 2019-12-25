@@ -1,0 +1,10 @@
+- https://www.reddit.com/r/programming/comments/cmcw7q/fixing_c_with_epochs/ew3mr4c?utm_source=share&utm_medium=web2x
+  - my notes
+- https://www.debian.org/releases/buster/amd64/release-notes/ch-whats-new.en.html
+- https://www.reddit.com/r/rust/comments/cap9ul/debian_10_released_contains_ripgrep_fdfind_exa/
+- https://bioreports.net/debian-riscv64-port-status/
+- Reddit uses Rust
+- Ticketmaster rewrite
+- Facebook SCM
+- https://www.reddit.com/r/rust/comments/eezdg6/those_who_use_rust_in_production_what_are_you/
+  - System76

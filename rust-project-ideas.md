@@ -1,3 +1,5 @@
+- add hyperscan to rust-regex
+  - https://news.ycombinator.com/item?id=21876284
 - implement junction concurrent hashmaps in rust
   - https://preshing.com/20160201/new-concurrent-hash-maps-for-cpp/
 - create a systems language benchmark using real-world software
