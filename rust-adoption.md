@@ -5,6 +5,10 @@
 - https://bioreports.net/debian-riscv64-port-status/
 - Reddit uses Rust
 - Ticketmaster rewrite
-- Facebook SCM
+- Facebook
+  - https://github.com/facebookexperimental/mononoke
 - https://www.reddit.com/r/rust/comments/eezdg6/those_who_use_rust_in_production_what_are_you/
   - System76
+- Microsoft's IoT Edge has a Rust component.
+- Amazon
+  - AWS Fargate container orchestration

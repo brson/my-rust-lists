@@ -1,3 +1,6 @@
+- implement "age" encryption tool
+  - https://github.com/FiloSottile/age
+  - https://news.ycombinator.com/item?id=21895671
 - add hyperscan to rust-regex
   - https://news.ycombinator.com/item?id=21876284
 - implement junction concurrent hashmaps in rust

@@ -1,3 +1,6 @@
+- Arc::make_mut for copy-on-write
+- {String}.as_ref().map(Borrow::borrow) -> &str
+- count complete source lines with cargo vendor + tokei
 - https://github.com/Hexilee/async-io-demo
 - https://github.com/dtolnay/semver-trick
 - https://medium.com/@edwardpku/being-an-intermediate-rust-programmer-in-one-day-37283bb1b0b0?from=timeline&isappinstalled=0
