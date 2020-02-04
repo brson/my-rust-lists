@@ -1,3 +1,6 @@
+- implement a private token on top of ckb
+  - use the zcash rust libraries
+  - https://github.com/trailofbits/publications/blob/master/reviews/ZcashWP.pdf
 - implement "age" encryption tool
   - https://github.com/FiloSottile/age
   - https://news.ycombinator.com/item?id=21895671
