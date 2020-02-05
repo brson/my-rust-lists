@@ -12,3 +12,5 @@
 - Microsoft's IoT Edge has a Rust component.
 - Amazon
   - AWS Fargate container orchestration
+- https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
+  - Discord uses rust
