@@ -1,3 +1,4 @@
+- implement activitypub https://activitypub.rocks/
 - implement a private token on top of ckb
   - use the zcash rust libraries
   - https://github.com/trailofbits/publications/blob/master/reviews/ZcashWP.pdf
