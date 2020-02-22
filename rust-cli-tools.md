@@ -40,6 +40,7 @@ cargo-udeps
 https://github.com/EmbarkStudios/cargo-deny
 mdbook
 https://www.wezm.net/technical/2019/10/useful-command-line-tools/
+https://crates.io/crates/dua-cli
 
 # rust tools i don't use
 
