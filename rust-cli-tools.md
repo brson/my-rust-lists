@@ -45,6 +45,9 @@ https://crates.io/crates/dua-cli
 # rust tools i don't use
 
 https://github.com/ivanceras/svgbob
+https://github.com/rust-lang/measureme
+  - https://blog.rust-lang.org/inside-rust/2020/02/25/intro-rustc-self-profile.html
+https://github.com/sharkdp/hyperfine
 
 # not rust but useful for rust
 
