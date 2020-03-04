@@ -14,6 +14,7 @@
 - Reddit uses Rust on every request for markdown parsing
 
 - Amazon in AWS Fargate container orchestration
+  - https://blog.acolyer.org/2020/03/02/firecracker/
 
 - Microsoft's IoT Edge has a Rust component.
 
