@@ -4,6 +4,8 @@
 - jturner's notes
   - https://www.jonathanturner.org/2018/07/snapshot-of-rust-popularity.html#rusts-commercial-users
 
+- https://github.com/omarabid/rust-companies
+
 - todo: integrate comments from this thread
   - https://news.ycombinator.com/item?id=22409838
 
@@ -62,3 +64,9 @@
 
 - The Mullvad VPN app
   - https://news.ycombinator.com/item?id=22410369
+
+- ChromeOS
+  - https://news.ycombinator.com/item?id=22410460
+
+- 1password
+  - https://news.ycombinator.com/item?id=22410587
