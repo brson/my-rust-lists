@@ -49,6 +49,7 @@ https://github.com/rust-lang/measureme
   - https://blog.rust-lang.org/inside-rust/2020/02/25/intro-rustc-self-profile.html
 https://github.com/sharkdp/hyperfine
 https://github.com/Canop/broot
+https://twitter.com/jesusprubio/status/1237752138069094400
 
 # not rust but useful for rust
 

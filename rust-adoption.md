@@ -17,6 +17,7 @@
 
 - Amazon in AWS Fargate container orchestration
   - https://blog.acolyer.org/2020/03/02/firecracker/
+  - https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
 
 - Microsoft's IoT Edge has a Rust component.
 
