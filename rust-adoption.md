@@ -12,8 +12,12 @@
 - Firefox of course
 
 - Dropbox's storage backend is in Rust, probably other components as well
+  - https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
 
 - Reddit uses Rust on every request for markdown parsing
+
+- Apple!
+  - https://www.reddit.com/r/rust/comments/fkngza/apple_hiring_rust_engineers_for_storage_and/
 
 - Amazon in AWS Fargate container orchestration
   - https://blog.acolyer.org/2020/03/02/firecracker/
