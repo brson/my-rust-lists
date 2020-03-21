@@ -1,3 +1,4 @@
+- https://arxiv.org/abs/2003.03296
 - https://www.zdnet.com/google-amp/article/microsoft-to-explore-using-rust/
   - 70% security bugs are memory bugs per microsoft
 - Encleve vuln's from mingshen (baidu)'s presentation
