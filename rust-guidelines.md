@@ -1,0 +1,2 @@
+- https://github.com/PolySync/misra-rust
+- https://anssi-fr.github.io/rust-guide/
