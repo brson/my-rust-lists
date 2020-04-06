@@ -1,2 +1,3 @@
 - https://github.com/PolySync/misra-rust
 - https://anssi-fr.github.io/rust-guide/
+- [Rust API Guidelines](https://github.com/brson/rust-api-guidelines)
