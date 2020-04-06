@@ -1,5 +1,8 @@
 # Influence of Rust
 
+Areas where Rust has influenced other languages and software projects.
+
+- verona lang
 - twir
 - language/community surveys
 - coc

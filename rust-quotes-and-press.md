@@ -1,3 +1,5 @@
+Collection of (mostly early) responses to Rust.
+
 # 2019-07-23
 
 PNA Rust on HN
