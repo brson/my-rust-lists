@@ -55,3 +55,4 @@
 - [specs](https://crates.io/crate/specs)
 - [thiserror](https://crates.io/crate/thiserror)
 - [tonic](https://crates.io/crate/tonic)
+- [wasm-bindgen](https://crates.io/crate/wasm-bindgen)
