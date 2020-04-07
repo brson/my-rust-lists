@@ -66,3 +66,4 @@
 
 - https://twitter.com/jesusprubio/status/1237752138069094400
 - https://www.wezm.net/technical/2019/10/useful-command-line-tools
+- https://elliehuxtable.com/my-tools-are-pretty-rusty/

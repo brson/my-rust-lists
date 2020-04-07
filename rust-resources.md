@@ -7,4 +7,4 @@
 - https://github.com/rust-unofficial/awesome-rust/
 - https://lib.rs
 - https://cheats.rs/
-
+- https://github.com/rust-secure-code/projects
