@@ -57,7 +57,7 @@
 - [xsv](https://crates.io/crate/xsv) - CSV tool
 
 
-## Not Rust but useful for rust
+## Not Rust but useful for Rust
 
 - [bloaty mcbloatface](https://github.com/google/bloaty) - find code bloat
 
