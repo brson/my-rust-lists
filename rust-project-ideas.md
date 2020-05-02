@@ -1,3 +1,16 @@
+- implement libsignal in rust
+  - https://github.com/Michael-F-Bryan/libsignal-protocol-rs
+- implement midi 2.0
+- coreutils benchmark
+  - https://github.com/uutils/coreutils
+  - https://github.com/redox-os/coreutils
+  - https://github.com/davidfischer/pycoreutils
+  - https://github.com/coreutils/coreutils (gnu)
+  - busybox
+  - https://github.com/guonaihong/coreutils
+  - https://github.com/EricLagergren/go-coreutils
+  - https://github.com/GrayJack/coreutils
+- tokei but sorted by crate - which crates contribute the most code
 - implement activitypub https://activitypub.rocks/
 - implement a private token on top of ckb
   - use the zcash rust libraries

@@ -1,3 +1,6 @@
+- https://www.reddit.com/r/rust/comments/518gcs/whats_your_favorite_piece_of_rust_code/d7a3gs0/
+- don't use unchecked functions just because you "know" the invariant holds (i.e. from_utf8_unchecked)
+- remove_dir_all crate
 - Arc::make_mut for copy-on-write
 - {String}.as_ref().map(Borrow::borrow) -> &str
 - count complete source lines with cargo vendor + tokei

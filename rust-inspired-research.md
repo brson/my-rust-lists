@@ -1,5 +1,7 @@
 # Rust-inspired research and papers
 
+- https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf
+
 - https://plv.mpi-sws.org/rustbelt/stacked-borrows/
 
 - oxide paper - https://arxiv.org/pdf/1903.00982.pdf

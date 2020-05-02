@@ -29,7 +29,7 @@
 
 ## Crates I use sometimes
 
-- [blake2-rfc](https://crates.io/crate/blake2-rfc)
+- [blake2](https://crates.io/crate/blake2)
 - [big_s](https://crates.io/crate/big_s)
 - [comrak](https://crates.io/crate/comrak)
 - [cranelift](https://crates.io/crate/cranelift)
@@ -43,6 +43,7 @@
 - [pest](https://crates.io/crate/pest)
 - [regex](https://crates.io/crate/regex)
 - [unicode-segmentation](https://crates.io/crate/unicode-segmentation)
+- [num_enum](https://crates.io/crate/num_enum)
 
 
 ## Crates I want to use

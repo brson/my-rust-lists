@@ -30,6 +30,7 @@
 - [bins](https://crates.io/crate/bins) - multi-pastebin tool
 - [broot](https://crates.io/crate/broot) - novel large directory navigation
 - [cargo-audit](https://crates.io/crate/cargo-audit) - find known security vulnerabilities
+- [cargo-count](https://crates.io/crate/cargo-count) - count lines in rust projects
 - [cargo-deny](https://crates.io/crate/cargo-deny) - disallow specific crates, licenses, etc
 - [cargo-geiger](https://crates.io/crates/cargo-geiger) - detect unsafe in dep tree
 - [cargo-generate](https://crates.io/crate/cargo-generate) - generate Rust projects from templates
