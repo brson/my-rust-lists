@@ -1,3 +1,6 @@
+- out-of-bound pointer math not ok
+  - https://github.com/tikv/tikv/pull/7751/files/69b602a4a50370cf8f327116ec345a13c7083ce8
+  - https://blog.regehr.org/archives/1518
 - https://www.reddit.com/r/rust/comments/518gcs/whats_your_favorite_piece_of_rust_code/d7a3gs0/
 - don't use unchecked functions just because you "know" the invariant holds (i.e. from_utf8_unchecked)
 - remove_dir_all crate

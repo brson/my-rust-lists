@@ -1,3 +1,6 @@
+- implement ganache in rust
+  - https://github.com/trufflesuite/ganache-cli
+  - it's slow
 - implement libsignal in rust
   - https://github.com/Michael-F-Bryan/libsignal-protocol-rs
 - implement midi 2.0
