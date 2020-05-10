@@ -1,3 +1,9 @@
+# 2020-05-10
+
+/r/rust thread:
+
+https://www.reddit.com/r/rust/comments/ggyo51/criticisms_of_rust
+
 # 2017-05-23
 
 Negative quote about Rust's liberal reputation.
