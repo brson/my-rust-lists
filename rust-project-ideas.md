@@ -1,3 +1,5 @@
+- implement lomuto partitioning in std sort
+  - https://news.ycombinator.com/item?id=23212620
 - implement ganache in rust
   - https://github.com/trufflesuite/ganache-cli
   - it's slow
