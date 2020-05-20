@@ -1,5 +1,8 @@
 - implement awk
   - https://lwn.net/SubscriberLink/820829/5bf9bf8bb9d6f2bf/
+  - https://pubs.opengroup.org/onlinepubs/9699919799/utilities/awk.html
+  - https://www.gnu.org/software/gawk/manual/gawk.html
+  - https://9p.io/cm/cs/awkbook/index.html
 - implement lomuto partitioning in std sort
   - https://news.ycombinator.com/item?id=23212620
 - implement ganache in rust
