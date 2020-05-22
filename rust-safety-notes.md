@@ -1,3 +1,4 @@
+- https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf
 - https://arxiv.org/abs/2003.03296
 - https://www.zdnet.com/google-amp/article/microsoft-to-explore-using-rust/
   - 70% security bugs are memory bugs per microsoft
