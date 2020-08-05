@@ -1,3 +1,5 @@
+- compile dependencies with optimizations in dev mode
+  - https://www.reddit.com/r/rust/comments/gvrgca/this_is_a_neat_trick_for_getting_good_runtime/
 - out-of-bound pointer math not ok
   - https://github.com/tikv/tikv/pull/7751/files/69b602a4a50370cf8f327116ec345a13c7083ce8
   - https://blog.regehr.org/archives/1518

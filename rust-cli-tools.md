@@ -36,6 +36,7 @@
 - [cargo-generate](https://crates.io/crate/cargo-generate) - generate Rust projects from templates
 - [cargo-license](https://crates.io/crate/cargo-license) - show licenses of dependencies
 - [cargo-lichking](https://crates.io/crate/cargo-lichking) - check dependency licenses
+- [cargo-llvm-lines](https://github.com/dtolnay/cargo-llvm-lines/) - shows amount of LLVM IR generated per function
 - [chit](https://crates.io/crate/chit) - lookup crate info
 - [du-dust](https://crates.io/crate/du-dust) - lik du, disk usage
 - [dua-cli](https://crates.io/crate/dua-cli) - disk usage analyzer
