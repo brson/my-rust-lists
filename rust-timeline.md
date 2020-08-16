@@ -1,3 +1,8 @@
+# A Rust timeline
+
+This is a timeline of important events in Rust's history,
+mostly focusing on the pre-1.0 era.
+
 - 2006/07/23 - Graydon starts working on Rust
   - https://github.com/graydon/rust-prehistory
   - https://github.com/graydon/rust-prehistory/commit/b0fd440798ab3cfb05c60a1a1bd2894e1618479e
@@ -33,17 +38,21 @@
 - 2013/??/?? - Graydon exits project
   - todo: link to email
   - https://www.reddit.com/r/rust/comments/7qels2/i_wonder_why_graydon_hoare_the_author_of_rust/
-    - this is disingenuous
 - 2013/??/?? - Alex joins Mozilla
 - 2013/09/26 - Rust 0.8 released
 - 2013/??/?? - Tim exits project
 - 2014/01/09 - Rust 0.9 released
 - 2014/04/04 - Rust 0.10 released
 - 2014/06/?? - (new) Cargo initial alpha release
-- 2014/07/02 - Rust 0.11.0 released
+- 2014/07/02 - Rust 0.11 released
 - 2015/04/10 - [Leakpocalypse](https://github.com/rust-lang/rust/issues/24292)
 
 - ? - Removal of garbage collector
 - ? - Removal of green threading
 - ? - "mutpocalypse"
 - ? - "libcpocalypse"
+
+- 2020/08/11 - Mozilla fires everybody on the Rust and Servo teams except Niko
+  - This marks the end of Mozilla Research, Servo, and the Rust Project at Mozilla
+  - https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/
+  - https://news.ycombinator.com/item?id=24120336
