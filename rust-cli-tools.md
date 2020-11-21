@@ -14,6 +14,7 @@
 - [cargo-benchcmp](https://crates.io/crate/cargo-benchcmp) - compare benchmarks using Rust's built-in benchmarker
 - [cargo-bloat](https://crates.io/crate/cargo-bloat) - show what's bloating your bins
 - [cargo-deps](https://crates.io/crate/cargo-deps) - generate dep graphs
+- [cargo-expand](https://github.com/dtolnay/cargo-expand) - expand macros
 - [cargo-feature-analyst](https://crates.io/crates/cargo-feature-analyst) - show feature usage
 - [cargo-outdated](https://crates.io/crates/cargo-outdated) - find upgradable crates
 - [cargo-tree](https://crates.io/crates/cargo-tree) - show the crate graph as a tree
