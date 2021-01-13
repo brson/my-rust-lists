@@ -10,6 +10,10 @@ Some are more readable than others.
 
   Rust production users.
 
+- [rust-archives.md](rust-archives.md)
+
+  Historical Rust resources.
+
 - [rust-cli-tools.md](rust-cli-tools.md)
 
   Rust CLI tools I use.
