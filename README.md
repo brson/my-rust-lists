@@ -54,7 +54,7 @@ Some are more readable than others.
 
   Early responses to Rust.
 
-- [rust-quotes-and-press.md](rust-quotes-and-press-neg.md)
+- [rust-quotes-and-press-neg.md](rust-quotes-and-press-neg.md)
 
   Negative responses to Rust.
 
