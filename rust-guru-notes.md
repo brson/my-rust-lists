@@ -1,3 +1,4 @@
+- Ok(panic!()) instead of panic!() in async fns
 - compile dependencies with optimizations in dev mode
   - https://www.reddit.com/r/rust/comments/gvrgca/this_is_a_neat_trick_for_getting_good_runtime/
 - out-of-bound pointer math not ok
