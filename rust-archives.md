@@ -18,3 +18,7 @@
 - [archaea](https://github.com/brson/archaea)
 
   An interactive presentation of the syntactic evoluation of early Rust.
+
+- [Graydon's Project Servo talk](http://venge.net/graydon/talks/intro-talk-2.pdf)
+
+  First presentation about Rust.
