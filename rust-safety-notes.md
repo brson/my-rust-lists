@@ -8,3 +8,5 @@
   - CVE-2015-6639
 - https://github.com/PolySync/misra-rust
 - https://anssi-fr.github.io/rust-guide/
+- https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html
+- https://github.com/Microsoft/MSRC-Security-Research/blob/master/presentations/2019_02_BlueHatIL/2019_01%20-%20BlueHatIL%20-%20Trends%2C%20challenge%2C%20and%20shifts%20in%20software%20vulnerability%20mitigation.pdf
