@@ -16,6 +16,9 @@
 - [cargo-deps](https://crates.io/crates/cargo-deps) - generate dep graphs
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) - expand macros
 - [cargo-feature-analyst](https://crates.io/crates/cargo-feature-analyst) - show feature usage
+- [cargo-generate](https://crates.io/crates/cargo-generate) -
+  - this is the only template I know right now:
+    - `cargo generate --git https://github.com/rustwasm/wasm-pack-template`
 - [cargo-outdated](https://crates.io/crates/cargo-outdated) - find upgradable crates
 - [cargo-tree](https://crates.io/crates/cargo-tree) - show the crate graph as a tree
 - [cargo-udeps](https://crates.io/crates/cargo-udeps) - show unused crates
