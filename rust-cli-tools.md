@@ -16,7 +16,7 @@
 - [cargo-deps](https://crates.io/crates/cargo-deps) - generate dep graphs
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) - expand macros
 - [cargo-feature-analyst](https://crates.io/crates/cargo-feature-analyst) - show feature usage
-- [cargo-generate](https://crates.io/crates/cargo-generate) -
+- [cargo-generate](https://crates.io/crates/cargo-generate) - create a project from a project template
   - this is the only template I know right now:
     - `cargo generate --git https://github.com/rustwasm/wasm-pack-template`
 - [cargo-outdated](https://crates.io/crates/cargo-outdated) - find upgradable crates
@@ -37,7 +37,6 @@
 - [cargo-count](https://crates.io/crates/cargo-count) - count lines in rust projects
 - [cargo-deny](https://crates.io/crates/cargo-deny) - disallow specific crates, licenses, etc
 - [cargo-geiger](https://crates.io/crates/cargo-geiger) - detect unsafe in dep tree
-- [cargo-generate](https://crates.io/crates/cargo-generate) - generate Rust projects from templates
 - [cargo-license](https://crates.io/crates/cargo-license) - show licenses of dependencies
 - [cargo-lichking](https://crates.io/crates/cargo-lichking) - check dependency licenses
 - [cargo-llvm-lines](https://github.com/dtolnay/cargo-llvm-lines/) - shows amount of LLVM IR generated per function
