@@ -1,3 +1,4 @@
+- `-- --test-threads=1` will print names of test cases before they hard-crash
 - Ok(panic!()) instead of panic!() in async fns
 - compile dependencies with optimizations in dev mode
   - https://www.reddit.com/r/rust/comments/gvrgca/this_is_a_neat_trick_for_getting_good_runtime/
