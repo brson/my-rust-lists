@@ -1,3 +1,11 @@
+# 2021-03-10
+
+Why asynchronous Rust doesn't work:
+
+https://theta.eu.org/2021/03/08/async-rust-2.html
+
+https://news.ycombinator.com/item?id=26406989
+
 # 2020-05-10
 
 /r/rust thread:
