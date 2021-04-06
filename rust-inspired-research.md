@@ -41,4 +41,5 @@
 
 - Fearless Concurrency? Understanding Concurrent Programming Safety inReal-World Rust Software
   - https://arxiv.org/pdf/1902.01906.pdf
-  
+
+- see also https://rustc-dev-guide.rust-lang.org/appendix/bibliography.html
