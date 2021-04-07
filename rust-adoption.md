@@ -12,6 +12,14 @@ Useful in cases where someone asks "who is actually using Rust?".
   - https://blog.acolyer.org/2020/03/02/firecracker/
   - https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
 
+- **Google**
+  - Fuchsia operating system and ChromeOS
+    - https://news.ycombinator.com/item?id=22410460
+  - Android's bluetooth stack
+    - https://news.ycombinator.com/item?id=26647981
+  - Android generally
+    - https://security.googleblog.com/2021/04/rust-in-android-platform.html
+
 - **Dropbox**'s storage backend is in Rust, probably other components as well
   - https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
 
@@ -24,9 +32,6 @@ Useful in cases where someone asks "who is actually using Rust?".
   - https://www.reddit.com/r/rust/comments/fkngza/apple_hiring_rust_engineers_for_storage_and/
 
 - **Microsoft**'s IoT Edge has a Rust component.
-
-- **Google**'s Fuchsia operating system and ChromeOS
-  - https://news.ycombinator.com/item?id=22410460
 
 - **Mullvad**s VPN app
   - https://news.ycombinator.com/item?id=22410369
