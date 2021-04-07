@@ -17,8 +17,9 @@ Useful in cases where someone asks "who is actually using Rust?".
     - https://news.ycombinator.com/item?id=22410460
   - Android's bluetooth stack
     - https://news.ycombinator.com/item?id=26647981
-  - Android generally
+  - Android OS generally
     - https://security.googleblog.com/2021/04/rust-in-android-platform.html
+    - https://news.ycombinator.com/item?id=26714478
 
 - **Dropbox**'s storage backend is in Rust, probably other components as well
   - https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
