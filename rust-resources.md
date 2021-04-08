@@ -8,3 +8,4 @@
 - https://lib.rs
 - https://cheats.rs/
 - https://github.com/rust-secure-code/projects
+- https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md
