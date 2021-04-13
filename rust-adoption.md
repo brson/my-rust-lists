@@ -76,6 +76,8 @@ Useful in cases where someone asks "who is actually using Rust?".
 
 ## Other lists
 
+- https://kerkour.com/blog/rust-in-production-2021/
+
 - https://www.reddit.com/r/programming/comments/cmcw7q/fixing_c_with_epochs/ew3mr4c?utm_source=share&utm_medium=web2x
   - my previous notes
 
