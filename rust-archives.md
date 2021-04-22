@@ -22,3 +22,5 @@
 - [Graydon's Project Servo talk](http://venge.net/graydon/talks/intro-talk-2.pdf)
 
   First presentation about Rust.
+
+  [Backup](https://github.com/brson/project-servo-talk)
