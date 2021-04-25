@@ -9,3 +9,4 @@
 - https://cheats.rs/
 - https://github.com/rust-secure-code/projects
 - https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md
+- [Another Container Cheet Sheet](https://i.redd.it/220xo2f6wci51.png)
