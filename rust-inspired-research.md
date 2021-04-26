@@ -1,5 +1,9 @@
 # Rust-inspired research and papers
 
+- Energy Efficiency Across Programming Languages
+
+  - https://greenlab.di.uminho.pt/wp-content/uploads/2017/09/paperSLE.pdf
+
 - https://cacm.acm.org/magazines/2021/4/251364-safe-systems-programming-in-rust/fulltext
 
 - https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf
