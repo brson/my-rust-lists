@@ -5,7 +5,8 @@ Useful in cases where someone asks "who is actually using Rust?".
 
 - **Firefox**
 
-- **Facebook** uses Rust for source management and other things
+- **Facebook** uses Rust for source management, Diem, and other things
+  - https://engineering.fb.com/2021/04/29/developer-tools/rust/
   - https://github.com/facebookexperimental/mononoke
 
 - **Amazon** in AWS Fargate container orchestration
@@ -21,6 +22,8 @@ Useful in cases where someone asks "who is actually using Rust?".
     - https://security.googleblog.com/2021/04/rust-in-android-platform.html
     - https://news.ycombinator.com/item?id=26714478
 
+- **Microsoft**'s IoT Edge has a Rust component.
+
 - **Dropbox**'s storage backend is in Rust, probably other components as well
   - https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
 
@@ -31,8 +34,6 @@ Useful in cases where someone asks "who is actually using Rust?".
 
 - **Apple**
   - https://www.reddit.com/r/rust/comments/fkngza/apple_hiring_rust_engineers_for_storage_and/
-
-- **Microsoft**'s IoT Edge has a Rust component.
 
 - **Mullvad**s VPN app
   - https://news.ycombinator.com/item?id=22410369
