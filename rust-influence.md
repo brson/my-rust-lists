@@ -2,6 +2,11 @@
 
 Areas where Rust has influenced other languages and software projects.
 
+
+- https://arxiv.org/abs/1710.07047
+  - safe pointers in spark
+- gleam, rai et al
+- zink zksync lang
 - verona lang
 - twir
 - language/community surveys

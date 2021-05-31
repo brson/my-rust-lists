@@ -1,5 +1,11 @@
 Collection of (mostly early) responses to Rust.
 
+# 2021-06-01
+
+Quote's from Guido
+
+- https://www.tectalk.co/python-creator-guido-van-rossum-reviews-popular-programming-languages/
+
 # 2019-07-23
 
 PNA Rust on HN

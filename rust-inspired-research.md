@@ -1,5 +1,23 @@
 # Rust-inspired research and papers
 
+- https://arxiv.org/abs/2011.09012
+  - RustViz: Interactively visualizeng ownership
+
+- https://arxiv.org/abs/2011.06171
+  - Usability of Ownership
+
+- https://arxiv.org/abs/2007.00752
+  - Is Rust Used Safely by Software developers
+
+- https://arxiv.org/abs/2003.03296
+  - Memory-safety challenge considered solved
+
+- https://arxiv.org/abs/1904.12210
+  - A practical analysis of Rust's concurrency story
+
+- https://arxiv.org/abs/1904.06750
+  - A grounded approach to programming language education
+
 - https://cacm.acm.org/magazines/2021/4/251364-safe-systems-programming-in-rust/fulltext
 
 - https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf
@@ -9,6 +27,12 @@
 - oxide paper - https://arxiv.org/pdf/1903.00982.pdf
   - Mezzo and Alms
   - two-phase borrows
+
+- https://arxiv.org/abs/1901.01001
+  - Identifying barries to adoption for Rust through online discourse
+
+- https://arxiv.org/abs/1805.05576
+  - Borrowing safe pointers from rust in spark
 
 - https://forge.rust-lang.org/bibliography.html
 
@@ -22,6 +46,12 @@
 
 - Structure and Influence of Package dependency networks
   - http://kodu.ut.ee/~riivokik/pubs/msr2017dependency.pdf
+
+- https://arxiv.org/abs/1804.10806
+  - KRust, formal semantics
+
+- https://arxiv.org/abs/1804.07608
+  - executable ownership semantics
 
 - "Retrofitting Linear Types" - Haskell paper references Rust
 
