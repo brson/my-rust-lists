@@ -1,5 +1,16 @@
 Collection of (mostly early) responses to Rust.
 
+# 2021-06-12
+
+A few thoughts on Fuchsia security
+
+- https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html
+
+"For system-level folks, Rust is one of the most exciting security developments of the past few decades. It elegantly solves problems which smart people were saying could not be solved. Fuchsia has a lot of code, and we made sure that much of it (millions of LoC) was in Rust.
+
+Our kernel, Zircon, is not in Rust. Not yet anyway. But it is in a nice, lean subset of C++ which I consider a vast improvement over C."
+
+
 # 2021-06-01
 
 Quote's from Guido
