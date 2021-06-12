@@ -5,6 +5,7 @@ Collection of (mostly early) responses to Rust.
 A few thoughts on Fuchsia security
 
 - https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html
+- https://news.ycombinator.com/item?id=27487465
 
 "For system-level folks, Rust is one of the most exciting security developments of the past few decades. It elegantly solves problems which smart people were saying could not be solved. Fuchsia has a lot of code, and we made sure that much of it (millions of LoC) was in Rust.
 
