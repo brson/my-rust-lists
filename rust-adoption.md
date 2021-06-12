@@ -15,6 +15,7 @@ Useful in cases where someone asks "who is actually using Rust?".
 
 - **Google**
   - Fuchsia operating system and ChromeOS
+    - https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html
     - https://news.ycombinator.com/item?id=22410460
   - Android's bluetooth stack
     - https://news.ycombinator.com/item?id=26647981
