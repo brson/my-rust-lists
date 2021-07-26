@@ -1,3 +1,4 @@
+- Following crates.io / docs.rs to GitHUb etc.
 - `-- --test-threads=1` will print names of test cases before they hard-crash
 - Ok(panic!()) instead of panic!() in async fns
 - compile dependencies with optimizations in dev mode

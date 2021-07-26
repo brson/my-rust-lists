@@ -1,5 +1,9 @@
 Collection of (mostly early) responses to Rust.
 
+# 2021-07-26
+
+https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal
+
 # 2021-06-12
 
 A few thoughts on Fuchsia security
