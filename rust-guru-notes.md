@@ -1,3 +1,7 @@
+- shebang?!
+  - https://github.com/rust-lang/rust/issues/1772
+  - https://neosmart.net/blog/2020/self-compiling-rust-code/
+- Should I end a function with a passthrough call or with `?; Ok(())`
 - Following crates.io / docs.rs to GitHUb etc.
 - `-- --test-threads=1` will print names of test cases before they hard-crash
 - Ok(panic!()) instead of panic!() in async fns
