@@ -1,3 +1,4 @@
+- #[non_exhaustive]
 - shebang?!
   - https://github.com/rust-lang/rust/issues/1772
   - https://neosmart.net/blog/2020/self-compiling-rust-code/
