@@ -7,7 +7,6 @@
 - [ripgrep](https://crates.io/crates/ripgrep) - fast and convenient code grep
 - [tokei](https://crates.io/crates/tokei) - count lines of code
 
-
 ## Rust CLI tools I use sometimes
 
 - [bingrep](https://crates.io/crates/bingrep) - output info about binaries
@@ -25,6 +24,7 @@
 - [critcmp](https://crates.io/crates/critcmp) - compare criterion benchmarks
 - [hexyl](https://crates.io/crates/hexl) - hex viewer
 - [mdbook](https://crates.io/crates/mdbook) - Rust-standard markdown documentation generator
+- [wagyu](https://crates.io/crates/wagyu) - generate blockchain wallets
 
 
 ## Rust tools I don't use but might
@@ -47,6 +47,7 @@
 - [exa](https://crates.io/crates/exa) - like ls
 - [fastmod](https://crates.io/crates/fastmod) - code refactoring
 - [hyperfine](https://crates.io/crates/hyperfine) - benchmarking tool
+- [just](https://crates.io/crates/just) - custom command runner, like make but without the baggage
 - [lsd](https://crates.io/crates/lsd) - like ls
 - [measureme](https://github.com/rust-lang/measureme) - work with rustc's self-profile
 - [memory-profiler](https://github.com/nokia/memory-profiler) - analyze memory leaks
