@@ -23,6 +23,7 @@
 - [cargo-udeps](https://crates.io/crates/cargo-udeps) - show unused crates
 - [critcmp](https://crates.io/crates/critcmp) - compare criterion benchmarks
 - [hexyl](https://crates.io/crates/hexl) - hex viewer
+- [jsonxf](https://crates.io/crates/jsonxf) - JSON pretty-printer and more
 - [mdbook](https://crates.io/crates/mdbook) - Rust-standard markdown documentation generator
 - [wagyu](https://crates.io/crates/wagyu) - generate blockchain wallets
 
