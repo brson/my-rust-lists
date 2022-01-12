@@ -1,3 +1,5 @@
+- cargo aliases
+- cargo xtask
 - #[path = ""] trick
     ```
     #[path = ""]
