@@ -1,3 +1,12 @@
+- #[path = ""] trick
+    ```
+    #[path = ""]
+    mod non_bpf_modules {
+        mod sanitized;
+        mod versions;
+    }
+    ```
+
 - #[non_exhaustive]
 - shebang?!
   - https://github.com/rust-lang/rust/issues/1772
