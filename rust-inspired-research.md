@@ -1,5 +1,8 @@
 # Rust-inspired research and papers
 
+- https://www.pm.inf.ethz.ch/research/prusti.html
+  - Prusti - Separation logic-based proofs, from ETH Zurich
+
 - https://arxiv.org/abs/2011.09012
   - RustViz: Interactively visualizeng ownership
 
