@@ -3,7 +3,6 @@
 ## Crates I use often
 
 - [anyhow](https://crates.io/crates/anyhow)
-- [atomic_blobject](https://crates.io/crates/atomic_blobject)
 - [byteorder](https://crates.io/crates/byteorder)
 - [bytes](https://crates.io/crates/bytes)
 - [chrono](https://crates.io/crates/chrono)
@@ -29,6 +28,7 @@
 
 ## Crates I use sometimes
 
+- [atomic_blobject](https://crates.io/crates/atomic_blobject)
 - [blake2](https://crates.io/crates/blake2)
 - [big_s](https://crates.io/crates/big_s)
 - [comrak](https://crates.io/crates/comrak)
