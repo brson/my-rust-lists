@@ -5,7 +5,7 @@ Areas where Rust has influenced other languages and software projects.
 
 - https://arxiv.org/abs/1710.07047
   - safe pointers in spark
-- gleam, rai et al
+- gleam, rai, dada et al
 - zink zksync lang
 - verona lang
 - twir
@@ -39,3 +39,6 @@ Areas where Rust has influenced other languages and software projects.
 - website - redox
 - Yarn, Ember, React influenced by RFC process https://reactjs.org/blog/2017/12/07/introducing-the-react-rfc-process.html
 - c++ epochs? https://vittorioromeo.info/index/blog/fixing_cpp_with_epochs.html
+- rustup, "-up" installers
+  - tiup
+  - https://discourse.julialang.org/t/plans-for-updating-julia/75880/15
