@@ -46,6 +46,7 @@ mostly focusing on the pre-1.0 era.
 - 2014/06/?? - (new) Cargo initial alpha release
 - 2014/07/02 - Rust 0.11 released
 - 2015/04/10 - [Leakpocalypse](https://github.com/rust-lang/rust/issues/24292)
+- 2015/05/15 - Rust 1.0 released
 
 - ? - Removal of garbage collector
 - ? - Removal of green threading
