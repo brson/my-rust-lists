@@ -15,6 +15,10 @@
 
   Meeting minutes from 2011-2015.
 
+- [rust-irc-logs](https://github.com/brson/rust-irc-logs)
+
+  Historic IRC logs for Rust channels on irc.mozilla.org.
+
 - [archaea](https://github.com/brson/archaea)
 
   An interactive presentation of the syntactic evoluation of early Rust.
