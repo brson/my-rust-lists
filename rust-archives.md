@@ -24,6 +24,10 @@
   Links to announcements, release notes, documentation, and installers up to 1.7.
   This type of information doesn't appear maintained after 1.7.
 
+- [Friends of the Tree](https://forge.rust-lang.org/archive/fott.html)
+
+  Descriptions of contributions from important early contributors 2014 - 2016.
+
 - [archaea](https://github.com/brson/archaea)
 
   An interactive presentation of the syntactic evoluation of early Rust.
