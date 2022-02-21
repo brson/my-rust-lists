@@ -3,6 +3,7 @@
 ## Crates I use often
 
 - [anyhow](https://crates.io/crates/anyhow)
+- [borsh](https://crates.io/crates/borsh)
 - [byteorder](https://crates.io/crates/byteorder)
 - [bytes](https://crates.io/crates/bytes)
 - [chrono](https://crates.io/crates/chrono)
@@ -40,10 +41,12 @@
 - [itertools](https://crates.io/crates/itertools)
 - [lalrpop](https://crates.io/crates/lalrpop)
 - [jemalloc](https://crates.io/crates/jemallocator)
+- [parol](https://crates.io/crates/parol)
 - [pest](https://crates.io/crates/pest)
 - [regex](https://crates.io/crates/regex)
 - [unicode-segmentation](https://crates.io/crates/unicode-segmentation)
 - [num_enum](https://crates.io/crates/num_enum)
+- [xshell](https://crates.io/crates/xshell)
 
 
 ## Crates I want to use
