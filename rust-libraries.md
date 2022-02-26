@@ -34,7 +34,7 @@
 - [big_s](https://crates.io/crates/big_s)
 - [comrak](https://crates.io/crates/comrak)
 - [cranelift](https://crates.io/crates/cranelift)
-- [extension_trait](https://crates.io/crates/extension-trait)
+- [extension-trait](https://crates.io/crates/extension-trait)
 - [fancy_flocks](https://crates.io/crates/fancy_flocks)
 - [fs2](https://crates.io/crates/fs2)
 - [gnuplot](https://crates.io/crates/gnuplot)
