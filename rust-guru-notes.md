@@ -1,3 +1,4 @@
+- Sealed trait pattern
 - cargo aliases
 - cargo xtask
 - #[path = ""] trick
