@@ -1088,3 +1088,4 @@ https://lwn.net/Articles/545716/
 # 2010-07-08
 
 [The Rust Language](http://lambda-the-ultimate.org/node/4009). Lambda the Ultimate. First significant mention of Rust in press.
+[Discussion on Reddit](https://www.reddit.com/r/programming/comments/cnfeo/rust_is_systems_programming_languages_being/)
