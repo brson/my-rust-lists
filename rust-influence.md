@@ -2,6 +2,7 @@
 
 Areas where Rust has influenced other languages and software projects.
 
+- fpm fortran package manager https://arxiv.org/pdf/2203.15110.pdf
 - move language
 - https://arxiv.org/abs/1710.07047
   - safe pointers in spark
