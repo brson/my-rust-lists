@@ -55,6 +55,7 @@
 - [miniserve](https://crates.io/crates/miniserve) - simple HTTP server
 - [procs](https://crates.io/crates/procs) - like htop / ps
 - [rewrite](https://crates.io/crates/rewrite) - rewrite file contents
+- [rulex](https://crates.io/crates/rulex) - easy regexes
 - [ripgrep_all](https://crates.io/crates/ripgrep_all) - search inside archives etc
 - [sd](https://crates.io/crates/sd) - sed replacement (find and replace)
 - [svgbob](https://crates.io/crates/svgbob) - convert text to SVG

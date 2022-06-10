@@ -56,6 +56,7 @@
 - [faerie](https://crates.io/crates/faerie)
 - [goblin](https://crates.io/crates/goblin)
 - [prost](https://crates.io/crates/prost)
+- [rulex](https://crates.io/crates/rulex)
 - [salsa](https://crates.io/crates/salsa)
 - [specs](https://crates.io/crates/specs)
 - [thiserror](https://crates.io/crates/thiserror)
