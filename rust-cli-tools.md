@@ -25,6 +25,7 @@
 - [hexyl](https://crates.io/crates/hexl) - hex viewer
 - [jsonxf](https://crates.io/crates/jsonxf) - JSON pretty-printer and more
 - [mdbook](https://crates.io/crates/mdbook) - Rust-standard markdown documentation generator
+- [sd](https://crates.io/crates/sd) - sed replacement (find and replace)
 - [wagyu](https://crates.io/crates/wagyu) - generate blockchain wallets
 
 
@@ -57,7 +58,6 @@
 - [rewrite](https://crates.io/crates/rewrite) - rewrite file contents
 - [rulex](https://crates.io/crates/rulex-bin) - easy regexes
 - [ripgrep_all](https://crates.io/crates/ripgrep_all) - search inside archives etc
-- [sd](https://crates.io/crates/sd) - sed replacement (find and replace)
 - [svgbob](https://crates.io/crates/svgbob) - convert text to SVG
 - [treeify](https://crates.io/crates/treeify) - display a list files as a tree
 - [twiggy](https://crates.io/crates/twiggy) - code size profiler
