@@ -1,3 +1,6 @@
+- rustc won't attempt to link other crates if they are not referenced
+  - this can cause huge confusion of those other crates only contain c symbols
+    since rustc won't pass them to the linker and they'll just disappear
 - Sealed trait pattern
 - cargo aliases
 - cargo xtask
