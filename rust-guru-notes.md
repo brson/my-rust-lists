@@ -1,3 +1,6 @@
+- getting async blocks to typecheck `?`
+  - `Ok::<_, anyhow::Error>(())`
+  - for async test cases
 - test runner has its own flags
   - --nocapture
 - rustc won't attempt to link other crates if they are not referenced
