@@ -1,3 +1,4 @@
+- Use extra braces (scopes `{ }`) for organization.
 - `use unused as _`
   - for linking to a crate containing only C code
   - cargo-contract uses it to satisfy the unused_crate lint
