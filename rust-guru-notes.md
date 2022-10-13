@@ -1,7 +1,9 @@
+- `#![no_main]` allows linking to a C library that provides `main`
 - Use extra braces (scopes `{ }`) for organization.
 - `use unused as _`
   - for linking to a crate containing only C code
   - cargo-contract uses it to satisfy the unused_crate lint
+  - just use `extern crate`?
 - tuple matching
 - getting async blocks to typecheck `?`
   - `Ok::<_, anyhow::Error>(())`
