@@ -1,3 +1,5 @@
+- workspace dependencies
+  - https://doc.rust-lang.org/nightly/cargo/reference/specifying-dependencies.html#inheriting-a-dependency-from-a-workspace
 - `#![no_main]` allows linking to a C library that provides `main`
 - Use extra braces (scopes `{ }`) for organization.
 - `use unused as _`
