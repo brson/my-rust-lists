@@ -65,11 +65,11 @@
 - [procs](https://crates.io/crates/procs) - like htop / ps
 - [rewrite](https://crates.io/crates/rewrite) - rewrite file contents
 - [rulex](https://crates.io/crates/rulex-bin) - easy regexes
+- [rust-semverver](https://github.com/rust-lang/rust-semverver) - check for semver API breakage
 - [ripgrep_all](https://crates.io/crates/ripgrep_all) - search inside archives etc
 - [svgbob](https://crates.io/crates/svgbob) - convert text to SVG
 - [treeify](https://crates.io/crates/treeify) - display a list files as a tree
 - [wasm-pack](https://crates.io/crates/wasm-pack) - package Rust as wasm
-
 
 ## Not Rust but useful for Rust
 
