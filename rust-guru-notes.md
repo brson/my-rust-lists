@@ -1,3 +1,9 @@
+- a crate can exclude itself from a workspace
+
+    # Prevent this from interfering with workspaces
+    [workspace]
+    members = ["."]
+
 - `[workspace.package]`
 - workspace dependencies
   - https://doc.rust-lang.org/nightly/cargo/reference/specifying-dependencies.html#inheriting-a-dependency-from-a-workspace
