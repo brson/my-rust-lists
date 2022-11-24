@@ -1,3 +1,4 @@
+- `use std::format as s` to succinctly create strings from strs
 - a crate can exclude itself from a workspace
 
     # Prevent this from interfering with workspaces
