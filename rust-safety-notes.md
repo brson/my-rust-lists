@@ -1,3 +1,4 @@
+- https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html?m=1
 - https://www.zdnet.com/article/chrome-70-of-all-security-bugs-are-memory-safety-issues/
   - https://www.chromium.org/Home/chromium-security/memory-safety
 - https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf
