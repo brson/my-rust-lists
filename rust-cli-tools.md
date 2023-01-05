@@ -1,6 +1,7 @@
 ## Rust CLI tools I use a lot
 
 - [basic-http-server](https://crates.io/crates/ripgrep) - serve static HTML and rendered Markdown
+- [cargo-clean-all](https://crates.io/crates/cargo-clean-all) - clean all projects, leaving recent files
 - [cargo-edit](https://crates.io/crates/cargo-edit) - `cargo add` command especially
 - [cargo-tree](https://crates.io/crates/cargo-tree) - show the crate graph as a tree
 - [fd-find](https://crates.io/crates/fd-find) - convenient `find` replacement
@@ -47,7 +48,6 @@
 - [bins](https://crates.io/crates/bins) - multi-pastebin tool
 - [broot](https://crates.io/crates/broot) - novel large directory navigation
 - [cargo-audit](https://crates.io/crates/cargo-audit) - find known security vulnerabilities
-- [cargo-clean-all](https://crates.io/crates/cargo-clean-all) - clean all projects, leaving recent files
 - [cargo-clean-recursive](https://crates.io/crates/cargo-clean-recursive) - clean all projects
 - [cargo-count](https://crates.io/crates/cargo-count) - count lines in rust projects
 - [cargo-deny](https://crates.io/crates/cargo-deny) - disallow specific crates, licenses, etc

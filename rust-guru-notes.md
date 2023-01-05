@@ -1,33 +1,33 @@
-- use unnamed imports to avoid trait name collisions: 'import Bytes as _'
-- `use std::format as s` to succinctly create strings from strs
-- a crate can exclude itself from a workspace
+* use unnamed imports to avoid trait name collisions: 'import Bytes as _'
+* `use std::format as s` to succinctly create strings from strs
+* a crate can exclude itself from a workspace
 
     # Prevent this from interfering with workspaces
     [workspace]
     members = ["."]
 
-- `[workspace.package]`
-- workspace dependencies
+* `[workspace.package]`
+* workspace dependencies
   - https://doc.rust-lang.org/nightly/cargo/reference/specifying-dependencies.html#inheriting-a-dependency-from-a-workspace
-- `#![no_main]` allows linking to a C library that provides `main`
-- Use extra braces (scopes `{ }`) for organization.
-- `use unused as _`
+* `#![no_main]` allows linking to a C library that provides `main`
+* Use extra braces (scopes `{ }`) for organization.
+* `use unused as _`
   - for linking to a crate containing only C code
   - cargo-contract uses it to satisfy the unused_crate lint
   - just use `extern crate`?
-- tuple matching
+* tuple matching
 - getting async blocks to typecheck `?`
   - `Ok::<_, anyhow::Error>(())`
   - for async test cases
-- test runner has its own flags
+* test runner has its own flags
   - --nocapture
 - rustc won't attempt to link other crates if they are not referenced
   - this can cause huge confusion of those other crates only contain c symbols
     since rustc won't pass them to the linker and they'll just disappear
-- Sealed trait pattern
+* Sealed trait pattern
 - cargo aliases
-- cargo xtask
-- #[path = ""] trick
+* cargo xtask
+* #[path = ""] trick
     ```
     #[path = ""]
     mod non_bpf_modules {
@@ -36,25 +36,25 @@
     }
     ```
 
-- #[non_exhaustive]
-- shebang?!
+* #[non_exhaustive]
+* shebang?!
   - https://github.com/rust-lang/rust/issues/1772
   - https://neosmart.net/blog/2020/self-compiling-rust-code/
 - Should I end a function with a passthrough call or with `?; Ok(())`
 - Following crates.io / docs.rs to GitHUb etc.
 - `-- --test-threads=1` will print names of test cases before they hard-crash
-- Ok(panic!()) instead of panic!() in async fns
-- compile dependencies with optimizations in dev mode
+* Ok(panic!()) instead of panic!() in async fns
+* compile dependencies with optimizations in dev mode
   - https://www.reddit.com/r/rust/comments/gvrgca/this_is_a_neat_trick_for_getting_good_runtime/
 - out-of-bound pointer math not ok
   - https://github.com/tikv/tikv/pull/7751/files/69b602a4a50370cf8f327116ec345a13c7083ce8
   - https://blog.regehr.org/archives/1518
 - https://www.reddit.com/r/rust/comments/518gcs/whats_your_favorite_piece_of_rust_code/d7a3gs0/
-- don't use unchecked functions just because you "know" the invariant holds (i.e. from_utf8_unchecked)
-- remove_dir_all crate
+* don't use unchecked functions just because you "know" the invariant holds (i.e. from_utf8_unchecked)
+* remove_dir_all crate
 - Arc::make_mut for copy-on-write
 - {String}.as_ref().map(Borrow::borrow) -> &str
-- count complete source lines with cargo vendor + tokei
+* count complete source lines with cargo vendor + tokei
 - https://github.com/Hexilee/async-io-demo
 - https://github.com/dtolnay/semver-trick
 - https://medium.com/@edwardpku/being-an-intermediate-rust-programmer-in-one-day-37283bb1b0b0?from=timeline&isappinstalled=0
@@ -63,7 +63,7 @@
 - https://rust-lang-nursery.github.io/api-guidelines/documentation.html
 - https://rust-random.github.io/book/
 - https://www.breakdown-notes.com/make/load/rust_cs_canvas/true
-- criterion
+* criterion
 - create rust pro tips
 - https://docs.rs/arc-swap/0.3.7/arc_swap/
 - cargo test --all --no-run
@@ -82,8 +82,8 @@
   - libs?
 - https://github.com/nrc/talks - 'thinking in rust'
 - overflow
-- turbofish
-- Collection<Result<T>> -> Result<Collection<T>>
+* turbofish
+* Collection<Result<T>> -> Result<Collection<T>>
   - https://doc.rust-lang.org/stable/std/iter/trait.FromIterator.html#impl-FromIterator%3CResult%3CA%2C%20E%3E%3E
 - https://stjepang.github.io/2019/01/29/lock-free-rust-crossbeam-in-2019.html
 - https://github.com/japaric/rust-san
@@ -121,12 +121,12 @@
   - https://github.com/rust-embedded
   - https://github.com/rust-embedded/awesome-embedded-rust
 - symbolic crate for minidump reporting
-- println!("{:#?}", ...);
+* println!("{:#?}", ...);
 - CI building with --locked when Cargo.toml is checked in
-- dbg!
+* dbg!
 - getset crate
 - cargo-local-registry
-- Struct { no, name, stuttering }
+* Struct { no, name, stuttering }
 - what's in `target/`
   - `target/$profile` vs `target/$triple/$profile`
 - ashley's template project
@@ -153,7 +153,7 @@
   - rust.cc - chinese
     - https://github.com/RustStudy/rust_daily_news
     - run by @Chaos, author of one of the Chinese Rust books
-- cloned() tricks
+* cloned() tricks
 - difference between executor and reactor
 - parallel
   - antidote - standard rust types w/o poisoning
@@ -171,13 +171,13 @@
 - what's inside target/?
   - build script output:
     - build/$pkg/output, stderr, out
-- turn default features off for deps if possible
+* turn default features off for deps if possible
   - otherwise they can't be turned off by other crates
   - default features considered harmful
 - cargo search
 - AsRef vs Borrow
-- iterator cloned() vs borrowed()
-- Path::display()
+* iterator cloned() vs borrowed()
+* Path::display()
 - tip: be curious about the crates scrolling by when you compile
 - where to find the answers to common questions?
   - https://rust-lang-nursery.github.io/api-guidelines/documentation.html#documentation
@@ -200,12 +200,12 @@
 - rustc --print cfg / target-cpus / target-features
 - rustc -C target-cpu / target-feature
 - *.rlo
-- don't jump to lifetimes
+* don't jump to lifetimes
   - even graydon doesn't
 - https://learning-rust.github.io/
 - https://www.youtube.com/watch?v=N6b44kMS6OM
 - first rust presentation http://venge.net/graydon/talks/intro-talk-2.pdf
-- drop impacts API - re serde Value recursion
+* drop impacts API - re serde Value recursion
 - impl Trait "leaks" Send/Sync https://twitter.com/Gankro/status/1141413230905966593?s=09
 - concurrent map tests https://gitlab.nebulanet.cc/xacrimon/rs-hm-bench
 - concurrent types https://gitlab.nebulanet.cc/xacrimon/ccl
