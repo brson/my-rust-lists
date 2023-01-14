@@ -1,3 +1,4 @@
+* `use foo::*` to avoid name collision errors
 * `const _` trick
   - https://github.com/rust-lang/rfcs/blob/master/text/2526-const-wildcard.md
 * use unnamed imports to avoid trait name collisions: 'import Bytes as _'
