@@ -3,6 +3,7 @@
 - [basic-http-server](https://crates.io/crates/ripgrep) - serve static HTML and rendered Markdown
 - [cargo-clean-all](https://crates.io/crates/cargo-clean-all) - clean all projects, leaving recent files
 - [cargo-edit](https://crates.io/crates/cargo-edit) - `cargo add` command especially
+- [cargo-expand](https://github.com/dtolnay/cargo-expand) - expand macros
 - [cargo-tree](https://crates.io/crates/cargo-tree) - show the crate graph as a tree
 - [fd-find](https://crates.io/crates/fd-find) - convenient `find` replacement
 - [gist](https://crates.io/crates/gist) - post gists
@@ -15,7 +16,6 @@
 - [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) - compare benchmarks using Rust's built-in benchmarker
 - [cargo-bloat](https://crates.io/crates/cargo-bloat) - show what's bloating your bins
 - [cargo-deps](https://crates.io/crates/cargo-deps) - generate dep graphs
-- [cargo-expand](https://github.com/dtolnay/cargo-expand) - expand macros
 - [cargo-fuzz](https://crates.io/crates/cargo-fuzz) - fuzz testing
 - [cargo-hack](https://crates.io/crates/cargo-hack) - build / test with all combinations of cargo features
 - [cargo-llvm-lines](https://github.com/dtolnay/cargo-llvm-lines/) - shows amount of LLVM IR generated per function
@@ -44,7 +44,6 @@
 ## Rust tools I don't use but might
 
 - [bat](https://crates.io/crates/bat) - cat with syntax highlighting
-- [bb](https://crates.io/crates/bb) - like htop
 - [bins](https://crates.io/crates/bins) - multi-pastebin tool
 - [broot](https://crates.io/crates/broot) - novel large directory navigation
 - [cargo-audit](https://crates.io/crates/cargo-audit) - find known security vulnerabilities
