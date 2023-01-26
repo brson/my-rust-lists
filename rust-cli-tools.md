@@ -5,6 +5,7 @@
 - [cargo-edit](https://crates.io/crates/cargo-edit) - `cargo add` command especially
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) - expand macros
 - [cargo-tree](https://crates.io/crates/cargo-tree) - show the crate graph as a tree
+- [du-dust](https://crates.io/crates/du-dust) - lik du, disk usage
 - [fd-find](https://crates.io/crates/fd-find) - convenient `find` replacement
 - [gist](https://crates.io/crates/gist) - post gists
 - [ripgrep](https://crates.io/crates/ripgrep) - fast and convenient code grep
@@ -54,7 +55,6 @@
 - [cargo-license](https://crates.io/crates/cargo-license) - show licenses of dependencies
 - [cargo-lichking](https://crates.io/crates/cargo-lichking) - check dependency licenses
 - [chit](https://crates.io/crates/chit) - lookup crate info
-- [du-dust](https://crates.io/crates/du-dust) - lik du, disk usage
 - [dua-cli](https://crates.io/crates/dua-cli) - disk usage analyzer
 - [eva](https://crates.io/crates/eva) - calculator, like bc
 - [exa](https://crates.io/crates/exa) - like ls
