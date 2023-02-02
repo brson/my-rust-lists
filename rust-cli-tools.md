@@ -27,6 +27,7 @@
 - [critcmp](https://crates.io/crates/critcmp) - compare criterion benchmarks
 - [hexyl](https://crates.io/crates/hexl) - hex viewer
 - [jsonxf](https://crates.io/crates/jsonxf) - JSON pretty-printer and more
+- [just](https://crates.io/crates/just) - custom command runner, like make but without the baggage
 - [mdbook](https://crates.io/crates/mdbook) - Rust-standard markdown documentation generator
 - [sd](https://crates.io/crates/sd) - sed replacement (find and replace)
 - [twiggy](https://crates.io/crates/twiggy) - code size profiler
@@ -60,7 +61,6 @@
 - [exa](https://crates.io/crates/exa) - like ls
 - [fastmod](https://crates.io/crates/fastmod) - code refactoring
 - [hyperfine](https://crates.io/crates/hyperfine) - benchmarking tool
-- [just](https://crates.io/crates/just) - custom command runner, like make but without the baggage
 - [lsd](https://crates.io/crates/lsd) - like ls
 - [measureme](https://github.com/rust-lang/measureme) - work with rustc's self-profile
 - [memory-profiler](https://github.com/nokia/memory-profiler) - analyze memory leaks
