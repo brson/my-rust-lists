@@ -2,6 +2,7 @@
 * `const _` trick
   - https://github.com/rust-lang/rfcs/blob/master/text/2526-const-wildcard.md
   - also used to create temporary scopes in macros
+    - as in soroban arbitrary macros
 * use unnamed imports to avoid trait name collisions: 'import Bytes as _'
 * `use std::format as s` to succinctly create strings from strs
 * a crate can exclude itself from a workspace
