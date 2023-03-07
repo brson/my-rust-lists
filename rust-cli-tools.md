@@ -4,6 +4,7 @@
 - [cargo-clean-all](https://crates.io/crates/cargo-clean-all) - clean all projects, leaving recent files
 - [cargo-edit](https://crates.io/crates/cargo-edit) - `cargo add` command especially
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) - expand macros
+- [cargo-hack](https://crates.io/crates/cargo-hack) - build / test with all combinations of cargo features
 - [cargo-tree](https://crates.io/crates/cargo-tree) - show the crate graph as a tree
 - [du-dust](https://crates.io/crates/du-dust) - lik du, disk usage
 - [fd-find](https://crates.io/crates/fd-find) - convenient `find` replacement
@@ -19,7 +20,6 @@
 - [cargo-bloat](https://crates.io/crates/cargo-bloat) - show what's bloating your bins
 - [cargo-deps](https://crates.io/crates/cargo-deps) - generate dep graphs
 - [cargo-fuzz](https://crates.io/crates/cargo-fuzz) - fuzz testing
-- [cargo-hack](https://crates.io/crates/cargo-hack) - build / test with all combinations of cargo features
 - [cargo-llvm-lines](https://github.com/dtolnay/cargo-llvm-lines/) - shows amount of LLVM IR generated per function
 - [cargo-outdated](https://crates.io/crates/cargo-outdated) - find upgradable crates
 - [cargo-udeps](https://crates.io/crates/cargo-udeps) - show unused crates
