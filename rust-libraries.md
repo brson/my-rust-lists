@@ -56,6 +56,7 @@
 - [regex](https://crates.io/crates/regex)
 - [static_assertions](https://crates.io/crates/static_assertions)
 - [thiserror](https://crates.io/crates/thiserror)
+- [time](https://crates.io/time)
 - [unicode-segmentation](https://crates.io/crates/unicode-segmentation)
 - [num_enum](https://crates.io/crates/num_enum)
 - [xshell](https://crates.io/crates/xshell)
