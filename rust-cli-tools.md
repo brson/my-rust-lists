@@ -55,7 +55,6 @@
 - [cargo-deny](https://crates.io/crates/cargo-deny) - disallow specific crates, licenses, etc
 - [cargo-geiger](https://crates.io/crates/cargo-geiger) - detect unsafe in dep tree
 - [cargo-license](https://crates.io/crates/cargo-license) - show licenses of dependencies
-- [cargo-lichking](https://crates.io/crates/cargo-lichking) - check dependency licenses
 - [chit](https://crates.io/crates/chit) - lookup crate info
 - [dua-cli](https://crates.io/crates/dua-cli) - disk usage analyzer
 - [eva](https://crates.io/crates/eva) - calculator, like bc
@@ -79,6 +78,9 @@
 
 - [bloaty mcbloatface](https://github.com/google/bloaty) - find code bloat
 
+## Don't use any more
+
+- [cargo-lichking](https://crates.io/crates/cargo-lichking) - check dependency licenses
 
 ## Other's lists
 
