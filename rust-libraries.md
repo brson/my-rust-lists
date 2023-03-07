@@ -31,6 +31,7 @@
 
 - [atomic_blobject](https://crates.io/crates/atomic_blobject)
 - [backtrace](https://crates.io/crates/backtrace)
+- [base64](https://crates.io/crates/base64)
 - [blake2](https://crates.io/crates/blake2)
 - [blake3](https://crates.io/crates/blake3)
 - [big_s](https://crates.io/crates/big_s)
