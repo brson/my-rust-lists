@@ -8,6 +8,7 @@
 - [du-dust](https://crates.io/crates/du-dust) - lik du, disk usage
 - [fd-find](https://crates.io/crates/fd-find) - convenient `find` replacement
 - [gist](https://crates.io/crates/gist) - post gists
+- [parol](https://crates.io/crates/parol) - LL(k) parser generator
 - [ripgrep](https://crates.io/crates/ripgrep) - fast and convenient code grep
 - [tokei](https://crates.io/crates/tokei) - count lines of code
 
