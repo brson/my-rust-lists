@@ -16,6 +16,7 @@
 ## Rust CLI tools I use sometimes
 
 - [bingrep](https://crates.io/crates/bingrep) - output info about binaries
+- [cargo-audit](https://crates.io/crates/cargo-audit) - find known security vulnerabilities
 - [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) - compare benchmarks using Rust's built-in benchmarker
 - [cargo-bloat](https://crates.io/crates/cargo-bloat) - show what's bloating your bins
 - [cargo-deps](https://crates.io/crates/cargo-deps) - generate dep graphs
@@ -49,11 +50,11 @@
 - [bat](https://crates.io/crates/bat) - cat with syntax highlighting
 - [bins](https://crates.io/crates/bins) - multi-pastebin tool
 - [broot](https://crates.io/crates/broot) - novel large directory navigation
-- [cargo-audit](https://crates.io/crates/cargo-audit) - find known security vulnerabilities
 - [cargo-clean-recursive](https://crates.io/crates/cargo-clean-recursive) - clean all projects
 - [cargo-count](https://crates.io/crates/cargo-count) - count lines in rust projects
 - [cargo-deny](https://crates.io/crates/cargo-deny) - disallow specific crates, licenses, etc
 - [cargo-geiger](https://crates.io/crates/cargo-geiger) - detect unsafe in dep tree
+- [cargo-generate](https://crates.io/crates/cargo-generate) - create cargo projecs from temtplates
 - [cargo-license](https://crates.io/crates/cargo-license) - show licenses of dependencies
 - [chit](https://crates.io/crates/chit) - lookup crate info
 - [dua-cli](https://crates.io/crates/dua-cli) - disk usage analyzer
@@ -65,9 +66,9 @@
 - [measureme](https://github.com/rust-lang/measureme) - work with rustc's self-profile
 - [memory-profiler](https://github.com/nokia/memory-profiler) - analyze memory leaks
 - [miniserve](https://crates.io/crates/miniserve) - simple HTTP server
+- [pomsky](https://crates.io/crates/pomsky) - easy regexes
 - [procs](https://crates.io/crates/procs) - like htop / ps
 - [rewrite](https://crates.io/crates/rewrite) - rewrite file contents
-- [rulex](https://crates.io/crates/rulex-bin) - easy regexes
 - [rust-semverver](https://github.com/rust-lang/rust-semverver) - check for semver API breakage
 - [ripgrep_all](https://crates.io/crates/ripgrep_all) - search inside archives etc
 - [svgbob](https://crates.io/crates/svgbob) - convert text to SVG
