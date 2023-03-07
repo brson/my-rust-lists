@@ -40,6 +40,7 @@
 - [crate-git-revision](https://crates.io/crates/crate-git-revision)
 - [extension-trait](https://crates.io/crates/extension-trait)
 - [fancy_flocks](https://crates.io/crates/fancy_flocks)
+- [fxhash](https://crates.io/crates/fxhash)
 - [fs2](https://crates.io/crates/fs2)
 - [gnuplot](https://crates.io/crates/gnuplot)
 - [handlebars](https://crates.io/crates/handlebars)
