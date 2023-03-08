@@ -1,3 +1,11 @@
+- using cfg_attr for conditional lines of docs
+
+    //! You can serialize types in a similar fashion:
+    //!
+    #![cfg_attr(not(feature = "display"), doc = " ```ignore")]
+    #![cfg_attr(feature = "display", doc = " ```")]
+    //! use serde::Serialize;
+
 * `use foo::*` to avoid name collision errors
 * `const _` trick
   - https://github.com/rust-lang/rfcs/blob/master/text/2526-const-wildcard.md
