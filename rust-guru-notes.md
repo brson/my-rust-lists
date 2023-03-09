@@ -1,3 +1,4 @@
+- PhantomData
 - using cfg_attr for conditional lines of docs
 
     //! You can serialize types in a similar fashion:
