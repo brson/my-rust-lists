@@ -30,6 +30,10 @@ Some are more readable than others.
 
   Advanced Rust.
 
+- [rust-history.md](rust-history.md)
+
+  Links about the history of Rust.
+
 - [rust-influence.md](rust-influence.md)
 
   Rust's influence on other languages and industry.

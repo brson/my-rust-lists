@@ -1,0 +1,4 @@
+- kibwen's history of rust structs
+  - https://www.reddit.com/r/rust/comments/264d2t/comment/chnkty5/
+- An ancient "design faq" issue
+  - https://github.com/mozilla/rust/issues/4047
