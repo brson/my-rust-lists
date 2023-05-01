@@ -1,3 +1,6 @@
+- Option::flatten
+            let src_time = src_path.metadata()
+                .ok().map(|m| m.modified().ok()).flatten();
 - PhantomData
 - using cfg_attr for conditional lines of docs
 
