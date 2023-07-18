@@ -1,3 +1,8 @@
+- `cargo rustc --crate-type=xxx`
+  - when you need a weird crate-type that breaks other parts of the build
+  - cc https://github.com/solana-labs/move/pull/244
+  - cc https://github.com/stellar/rs-soroban-sdk/pull/957#issuecomment-1600066124
+  - cc https://github.com/rust-lang/cargo/issues/12260#issuecomment-1589624151
 - Unnamed trait imports with `_`
 - How to rebase around Cargo.lock conflicts
 - Option::flatten
