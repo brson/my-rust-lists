@@ -70,6 +70,7 @@
 - [prost](https://crates.io/crates/prost)
 - [rulex](https://crates.io/crates/rulex)
 - [salsa](https://crates.io/crates/salsa)
+- [self-replace](https://crates.io/crates/self-replace)
 - [specs](https://crates.io/crates/specs)
 - [tonic](https://crates.io/crates/tonic)
 - [wasm-bindgen](https://crates.io/crates/wasm-bindgen)
