@@ -1,3 +1,8 @@
+- `use Trait as _` by default
+  - Most traits don't need to be named
+  - This could be a lint
+- `cargo +nightly test -Z direct-minimal-versions`
+  - seems useful
 - `cargo rustc --crate-type=xxx`
   - when you need a weird crate-type that breaks other parts of the build
   - cc https://github.com/solana-labs/move/pull/244
