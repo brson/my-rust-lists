@@ -19,7 +19,7 @@
 - [cargo-audit](https://crates.io/crates/cargo-audit) - find known security vulnerabilities
 - [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) - compare benchmarks using Rust's built-in benchmarker
 - [cargo-bloat](https://crates.io/crates/cargo-bloat) - show what's bloating your bins
-- [cargo-deps](https://crates.io/crates/cargo-deps) - generate dep graphs
+- [cargo-deps](https://crates.io/crates/cargo-deps) - generate dep graphs (deprecated)
 - [cargo-fuzz](https://crates.io/crates/cargo-fuzz) - fuzz testing
 - [cargo-llvm-lines](https://github.com/dtolnay/cargo-llvm-lines/) - shows amount of LLVM IR generated per function
 - [cargo-outdated](https://crates.io/crates/cargo-outdated) - find upgradable crates
