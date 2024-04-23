@@ -1,6 +1,6 @@
 ## Rust CLI tools I use a lot
 
-- [basic-http-server](https://crates.io/crates/ripgrep) - serve static HTML and rendered Markdown
+- [basic-http-server](https://crates.io/crates/basic-http-server) - serve static HTML and rendered Markdown
 - [cargo-clean-all](https://crates.io/crates/cargo-clean-all) - clean all projects, leaving recent files
 - [cargo-edit](https://crates.io/crates/cargo-edit) - `cargo add` command especially
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) - expand macros
@@ -32,8 +32,10 @@
 - [just](https://crates.io/crates/just) - custom command runner, like make but without the baggage
 - [mdbook](https://crates.io/crates/mdbook) - Rust-standard markdown documentation generator
 - [sd](https://crates.io/crates/sd) - sed replacement (find and replace)
+- [stellar-xdr](https://crates.io/crates/stellar-xdr) - XDR encoding/decoding
 - [twiggy](https://crates.io/crates/twiggy) - code size profiler
 - [wagyu](https://crates.io/crates/wagyu) - generate blockchain wallets
+- [wasm-cs](https://crates.io/crates/wasm-cs) - read and write custom wasm sections
 - [wasm-opt](https://crates.io/crates/wasm-opt) - wasm optimizer
 - [wasm-tools](https://crates.io/crates/wasm-tools) - various tools for wasm
 - [xsv](https://crates.io/crates/xsv) - CSV tool
