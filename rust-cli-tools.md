@@ -28,6 +28,7 @@
 - [cargo-workspace](https://crates.io/crates/cargo-workspace) - operate on every crate in workspace
 - [critcmp](https://crates.io/crates/critcmp) - compare criterion benchmarks
 - [hexyl](https://crates.io/crates/hexl) - hex viewer
+- [jaq](https://crates.io/crates/jaq) - jq clone for querying JSON
 - [jsonxf](https://crates.io/crates/jsonxf) - JSON pretty-printer and more
 - [just](https://crates.io/crates/just) - custom command runner, like make but without the baggage
 - [mdbook](https://crates.io/crates/mdbook) - Rust-standard markdown documentation generator
