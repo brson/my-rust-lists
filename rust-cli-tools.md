@@ -9,6 +9,7 @@
 - [du-dust](https://crates.io/crates/du-dust) - lik du, disk usage
 - [fd-find](https://crates.io/crates/fd-find) - convenient `find` replacement
 - [gist](https://crates.io/crates/gist) - post gists
+- [lsd](https://crates.io/crates/lsd) - like ls
 - [parol](https://crates.io/crates/parol) - LL(k) parser generator
 - [ripgrep](https://crates.io/crates/ripgrep) - fast and convenient code grep
 - [tokei](https://crates.io/crates/tokei) - count lines of code
@@ -21,12 +22,15 @@
 - [cargo-bloat](https://crates.io/crates/cargo-bloat) - show what's bloating your bins
 - [cargo-deps](https://crates.io/crates/cargo-deps) - generate dep graphs (deprecated - use carge-depgraph?)
 - [cargo-fuzz](https://crates.io/crates/cargo-fuzz) - fuzz testing
+- [cargo-generate](https://crates.io/crates/cargo-generate) - create a project from a project template
+  - `cargo generate --git https://github.com/rustwasm/wasm-pack-template`
 - [cargo-llvm-lines](https://github.com/dtolnay/cargo-llvm-lines/) - shows amount of LLVM IR generated per function
 - [cargo-outdated](https://crates.io/crates/cargo-outdated) - find upgradable crates
 - [cargo-udeps](https://crates.io/crates/cargo-udeps) - show unused crates
 - [cargo-watch](https://crates.io/crates/cargo-watch) - rebuild on change
 - [cargo-workspace](https://crates.io/crates/cargo-workspace) - operate on every crate in workspace
 - [critcmp](https://crates.io/crates/critcmp) - compare criterion benchmarks
+- [eza](https://crates.io/crates/eza) - like ls
 - [hexyl](https://crates.io/crates/hexl) - hex viewer
 - [jaq](https://crates.io/crates/jaq) - jq clone for querying JSON
 - [jsonxf](https://crates.io/crates/jsonxf) - JSON pretty-printer and more
@@ -44,9 +48,6 @@
 ## Rust tools I have used in the past
 
 - [cargo-feature-analyst](https://crates.io/crates/cargo-feature-analyst) - show feature usage
-- [cargo-generate](https://crates.io/crates/cargo-generate) - create a project from a project template
-  - this is the only template I know right now:
-    - `cargo generate --git https://github.com/rustwasm/wasm-pack-template`
 
 ## Rust tools I don't use but might
 
@@ -62,11 +63,9 @@
 - [chit](https://crates.io/crates/chit) - lookup crate info
 - [dua-cli](https://crates.io/crates/dua-cli) - disk usage analyzer
 - [eva](https://crates.io/crates/eva) - calculator, like bc
-- [exa](https://crates.io/crates/exa) - like ls
 - [fastmod](https://crates.io/crates/fastmod) - code refactoring
 - [hyperfine](https://crates.io/crates/hyperfine) - benchmarking tool
 - [intentrace](https://crates.io/crates/intentrace) - better strace
-- [lsd](https://crates.io/crates/lsd) - like ls
 - [measureme](https://github.com/rust-lang/measureme) - work with rustc's self-profile
 - [memory-profiler](https://github.com/nokia/memory-profiler) - analyze memory leaks
 - [miniserve](https://crates.io/crates/miniserve) - simple HTTP server
