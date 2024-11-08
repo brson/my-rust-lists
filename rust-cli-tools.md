@@ -65,6 +65,7 @@
 - [exa](https://crates.io/crates/exa) - like ls
 - [fastmod](https://crates.io/crates/fastmod) - code refactoring
 - [hyperfine](https://crates.io/crates/hyperfine) - benchmarking tool
+- [intentrace](https://crates.io/crates/intentrace) - better strace
 - [lsd](https://crates.io/crates/lsd) - like ls
 - [measureme](https://github.com/rust-lang/measureme) - work with rustc's self-profile
 - [memory-profiler](https://github.com/nokia/memory-profiler) - analyze memory leaks
