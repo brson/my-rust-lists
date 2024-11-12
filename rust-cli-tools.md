@@ -66,6 +66,7 @@
 - [fastmod](https://crates.io/crates/fastmod) - code refactoring
 - [hyperfine](https://crates.io/crates/hyperfine) - benchmarking tool
 - [intentrace](https://crates.io/crates/intentrace) - better strace
+- [jj-cli](https://crates.io/crates/jj-cli) - mercurial-like porcelain for git
 - [measureme](https://github.com/rust-lang/measureme) - work with rustc's self-profile
 - [memory-profiler](https://github.com/nokia/memory-profiler) - analyze memory leaks
 - [miniserve](https://crates.io/crates/miniserve) - simple HTTP server
