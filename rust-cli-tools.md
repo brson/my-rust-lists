@@ -1,3 +1,5 @@
+**This list is unmaintained. For a similar project see [rustmax](https://github.com/brson/rustmax).**
+
 ## Rust CLI tools I use a lot
 
 - [basic-http-server](https://crates.io/crates/basic-http-server) - serve static HTML and rendered Markdown

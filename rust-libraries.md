@@ -1,3 +1,5 @@
+**This list is unmaintained. For a similar project see [rustmax](https://github.com/brson/rustmax).**
+
 # Rust crates I use
 
 ## Crates I use often
