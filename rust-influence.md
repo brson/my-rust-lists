@@ -43,3 +43,6 @@ Areas where Rust has influenced other languages and software projects.
 - rustup, "-up" installers
   - tiup
   - https://discourse.julialang.org/t/plans-for-updating-julia/75880/15
+  - https://github.com/JuliaLang/juliaup - script adapted from rustup
+  - solana script is adapted from rustup
+  - dfinity, nearup, tiup, juliaup, fuelup
