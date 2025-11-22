@@ -19,6 +19,10 @@
 
   Historic IRC logs for Rust channels on irc.mozilla.org.
 
+- [rust-qdb](https://github.com/brson/rust-qdb)
+
+  Rust quotes from the defunct Mozilla quotes database.
+
 - [Rust Release History](https://forge.rust-lang.org/archive/release-history.html)
 
   Links to announcements, release notes, documentation, and installers up to 1.7.
