@@ -3,16 +3,18 @@
 Lists of Rust-related things for my personal use,
 which might be useful to other Rust developers.
 
-Some more maintained than others.
-Some are more readable than others.
+The most relevant info here today is [rust-archives.md](rust-archives.md).
 
-- [rust-adoption.md](rust-adoption.md)
-
-  Rust production users.
+Much of the other kinds of info that used to be maintained here
+is now part of [Rustmax](https://github.com/brson/rustmax).
 
 - [rust-archives.md](rust-archives.md)
 
   Historical Rust resources.
+
+- [rust-adoption.md](rust-adoption.md)
+
+  Rust production users.
 
 - [rust-cli-tools.md](rust-cli-tools.md)
 
