@@ -23,6 +23,10 @@
 
   Rust quotes from the defunct Mozilla quotes database.
 
+- [rust-issue-archive](https://github.com/brson/rust-issue-archive)
+
+  Backup of the Rust issue tracker up to 2016.
+
 - [Rust Release History](https://forge.rust-lang.org/archive/release-history.html)
 
   Links to announcements, release notes, documentation, and installers up to 1.7.
