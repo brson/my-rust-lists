@@ -43,6 +43,9 @@ mostly focusing on the pre-1.0 era.
 - 2013/??/?? - Tim exits project
 - 2014/01/09 - Rust 0.9 released
 - 2014/04/04 - Rust 0.10 released
+- 2014/05/13 - "mutpocalypse"
+  - https://smallcultfollowing.com/babysteps/blog/2014/05/13/focusing-on-ownership/
+  - https://www.reddit.com/r/rust/comments/25i544/babysteps_focusing_on_ownership_or_removing_let/
 - 2014/06/?? - (new) Cargo initial alpha release
 - 2014/07/02 - Rust 0.11 released
 - 2015/04/10 - [Leakpocalypse](https://github.com/rust-lang/rust/issues/24292)
@@ -50,7 +53,6 @@ mostly focusing on the pre-1.0 era.
 
 - ? - Removal of garbage collector
 - ? - Removal of green threading
-- ? - "mutpocalypse"
 - ? - "libcpocalypse"
 
 - 2020/08/11 - Mozilla fires everybody on the Rust and Servo teams except Niko
